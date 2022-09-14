@@ -1,4 +1,4 @@
-name: pangeo
+name: gabe
 channels:
   - conda-forge
 dependencies:
